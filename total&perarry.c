@@ -19,5 +19,5 @@ void main()
 		 }
 		per=total/n;
 		 printf("total=%d",total);
-		 printf("\npercentage=%f",per);
+          printf("percentage=%d",per);
 }
